@@ -1,7 +1,7 @@
 === Working News Sitemap Generator For Google News (2014)  ===
 Contributors: soliver, webmaster-net, Chris Jinks 
 Donate link: http://webmaster.net/plugins/
-Tags: security, permissions, wp-config, wp_head, wp_generator, database, php errors, server, ssl, prefix, mod_security, timthumb, spam
+Tags: google news, news sitemap, xml sitemap, opinion piece, op/ed, google news sitemap, sitemap generator
 Requires at least: 3.0.1
 Tested up to: 4.0.0
 Stable tag: 1.03
@@ -49,10 +49,10 @@ For more info, check out the following article:
 
 This will help you to correctly install the plugin
 
-* 1. Upload `news-sitemap-generator-2014` directory to the `/wp-content/plugins/` directory
-* 2. Activate the plugin through the 'Plugins' menu in WordPress
-* 3. Move the file "google-news-sitemap.xml" to the root directory e.g. public_html and open a SSH terminal. CD into the directory and run chown nobody:nobody google-news-sitemap.xml where nobodoy MAY have to be replaced with your Apache username on certain machines
-* 4. Publish a test post
+ 1. Upload `news-sitemap-generator-2014` directory to the `/wp-content/plugins/` directory
+ 2. Activate the plugin through the 'Plugins' menu in WordPress
+ 3. Move the file "google-news-sitemap.xml" to the root directory e.g. public_html and open a SSH terminal. CD into the directory and run chown nobody:nobody google-news-sitemap.xml where nobodoy MAY have to be replaced with your Apache username on certain machines
+ 4. Publish a test post
 
 == Frequently Asked Questions ==
 
